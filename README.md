@@ -21,7 +21,7 @@ Este repositório contém materiais, projetos e atividades relacionados à disci
 ## 🚀 Tecnologias Utilizadas
 - **Linguagens:** C++, Python;
 - **Frameworks:** Pandas, Matplotlib, Numpy, Scikit-learn, OpenCV, PyTorch...;
-- **Ferramentas:** Google Colab, Jupyter Notebook, Roboflow, Wokwi, Hugging Face, OpenAI  
+- **Ferramentas:** Google Colab, Jupyter Notebook, Roboflow, Wokwi, Hugging Face, OpenAI...;  
 - **Outros:** Arduino.
 
 ## 👤 Autor
